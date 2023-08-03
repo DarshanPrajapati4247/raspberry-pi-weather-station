@@ -25,3 +25,6 @@ The Raspberry Pi Weather Station is an innovative project that leverages the pow
 The GitHub repository for the Raspberry Pi Weather Station contains the C language source code, along with the necessary Sense HAT CPP and H files, to enable users to set up their weather dictators quickly. It also includes a detailed README file with instructions on how to assemble the hardware components, install required dependencies, and run the application on their Raspberry Pi.
 
 Overall, the Raspberry Pi Weather Station project represents an exciting combination of hardware and software, providing users with an engaging and informative way to access weather data through their very own weather dictator.
+
+
+Birava
