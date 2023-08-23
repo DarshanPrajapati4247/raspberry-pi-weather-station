@@ -60,6 +60,7 @@ void GhDisplayAll(reading_s rd, setpoint_s sd)
 	GhSetVerticalBar(PBAR, GREEN, rv);
 }
 
+//This function saves the set points.
 int GhSaveSetpoints(const char *fname, setpoint_s spts)
 {
 	FILE *fp;
