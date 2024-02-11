@@ -4,6 +4,8 @@ A C-based Weather Dictator using Sense HAT for real-time weather monitoring and 
 
 **Raspberry Pi Weather Station: A C Language-based Weather Dictator using Sense HAT**
 
+![pi](https://cdn-icons-png.flaticon.com/512/11894/11894981.png)
+
 The Raspberry Pi Weather Station is an innovative project that leverages the power of the Raspberry Pi and the Sense HAT add-on board to create a sophisticated weather monitoring and reporting system. Written in the C programming language, this project aims to provide accurate weather information and act as a "Weather Dictator" by displaying real-time weather data and forecasts on the connected Sense HAT LED matrix.
 
 **Key Features:**
